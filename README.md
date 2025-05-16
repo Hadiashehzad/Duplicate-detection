@@ -11,7 +11,7 @@ The training dataset we’re using is from quora question pairs that can be foun
 1. Naive Bayes.
 2. Pretrained Encoder-Transformers (BERT).
 3. Large Language Sequence Model.
-4. 
+   
 # Pre-Processing
 
 Since we’re calculating the text similarity, we refrained from removing the stop-words. In that way, we won’t be losing any context of the sentences. We did follow the following steps for pre-processing:
